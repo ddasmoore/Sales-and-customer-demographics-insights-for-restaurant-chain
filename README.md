@@ -1,4 +1,4 @@
-# Sales-and-customer-behavior-insights-for-restaurant-chain
+# Sales-and-customer-demographics-insights-for-restaurant-chain
 
 ## Table of Contents
 * [About the project](#About-the-project)
