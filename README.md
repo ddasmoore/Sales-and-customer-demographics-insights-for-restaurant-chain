@@ -31,6 +31,7 @@ Insights and recommendations were provided in the following key areas:
 
 ## About-the-dataset
 The dataset consisted of sales records across 5 chains of a restaurant, including customer id, order id, order total, delivery fee, tip, day of the week, order time and delivery time.
+Dataset available upon request. 
 
 ## Tools
 The data was analyzed using Excel.
